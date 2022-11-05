@@ -5,7 +5,6 @@
     <tr border: none;>
       <td><b>Type</b></td>
       <td><b>resource</b></td>
-     
     </tr>
   </thead>
   <tbody>
