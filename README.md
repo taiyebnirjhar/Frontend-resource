@@ -20,7 +20,7 @@
 
 - [blog](https://careerfoundry.com/en/blog/ui-design/ai-tools-for-ui-design/)
 
-## FREE IMAGES
+## FREE IMAGES & SVGS
 
 ### undraw
 
