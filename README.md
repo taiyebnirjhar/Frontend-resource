@@ -6,8 +6,6 @@
 
 - [chatgpt](https://chat.openai.com/) no one can beat this .
 
-Generative AI Wireframe: Design and Innovate Faster
-
 ### GENERATE DESIGN MOCK UPS & Wireframe PROJECT REQUIREMENT
 
 - [uizard](https://uizard.io/)
