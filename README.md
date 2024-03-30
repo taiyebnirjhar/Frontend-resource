@@ -11,6 +11,11 @@
 - [uizard](https://uizard.io/)
 - [visily](https://www.visily.ai/ai-ui-design-generator/)
 - [jeda](https://www.jeda.ai/generative-ai-wireframe)
+- [relume](https://www.relume.io/)
+
+### GENERATE COVER LETTER
+
+- [coverlettergpt](https://coverlettergpt.xyz/)
 
 ### GENERATE MOCK DATA
 
